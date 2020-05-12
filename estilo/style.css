@@ -1,0 +1,45 @@
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2019/10/30/17/20/cube-4590098_960_720.jpg");
+  padding: 100px, 100px;
+  margin: 100px;
+  
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:unset;
+}
+
+.menu {
+  background-color: write;  
+}
+
+a {
+   text-decoration: none;
+  
+}
+a:haver {
+  text-decoration: underline;
+}
+
+.menu li {
+  list-style: none;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+.site-subtitle,
+.site-title {
+  color: rgb(22, 22, 59);
+  text-align-last: center;
+  text-decoration: transparent;
+ 
+  
+  
+ 
+ 
+  
+}
+
+
